@@ -1,0 +1,8 @@
+@use '~/utils/master' as m;
+
+.logo {
+    font-size: 1.8rem;
+    font-weight: 700;
+
+    text-shadow: 0 0 2px m.$color_accent;
+}

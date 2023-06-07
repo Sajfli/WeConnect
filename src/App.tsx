@@ -1,7 +1,13 @@
 import './App.css'
 
+import Navigation from './components/organisms/Navigation'
+
 function App() {
-    return <></>
+    return (
+        <>
+            <Navigation />
+        </>
+    )
 }
 
 export default App
